@@ -5,12 +5,12 @@
 </script>
 
 <!-- Layout with a full-screen background image, menubar and content panel at the center -->
-<div>
+<div class="h-screen flex flex-col">
 	<MonthlyImage />
 	<div>
 		<NavBar />
 	</div>
-	<div>
+	<div class="flex-grow flex items-center justify-center">
 		<slot />
 	</div>
 </div>

@@ -1,6 +1,6 @@
 <script>
 </script>
 
-<div class="bg-red-600">
+<div class="bg-yellow-400">
     ffjfjjfjf
 </div>
